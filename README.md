@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm <b>ILYA</b> 
 <img src="https://github.com/IOBananaOI/IOBananaOI/blob/main/12Ru.gif" height="150"/>
-<h2 align="center">Computer science student</h2>
+<h2 align="center">Computer science/Mathematics student</h2>
 </h1>
 
 
